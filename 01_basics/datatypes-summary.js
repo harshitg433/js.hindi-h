@@ -28,4 +28,11 @@ const myFunction = function(){
     console.log("hello world");
 }
 
-console.log(typeof id);
+// console.log(typeof id);
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack (premitive), heap (non-primitive)
+
+let myNockName = "shiva"
